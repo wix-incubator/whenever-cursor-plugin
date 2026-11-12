@@ -1,0 +1,19 @@
+{
+  "name": "whenever",
+  "displayName": "Whenever",
+  "version": "0.1.0",
+  "description": "Build and manage Whenever workflow automations from Cursor.",
+  "author": {
+    "name": "Wix.com Ltd."
+  },
+  "homepage": "https://www.whenever.dev",
+  "repository": "https://github.com/wix-incubator/whenever-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "automation",
+    "workflows",
+    "schedules",
+    "webhooks"
+  ],
+  "logo": "assets/icon.png"
+}
