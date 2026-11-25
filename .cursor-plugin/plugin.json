@@ -2,7 +2,7 @@
   "name": "whenever",
   "displayName": "Whenever",
   "version": "0.1.0",
-  "description": "Build and manage Whenever workflow automations from Cursor.",
+  "description": "Ask Cursor once; Whenever runs the workflow on its own schedule, webhook or app event.",
   "author": {
     "name": "Wix.com Ltd."
   },

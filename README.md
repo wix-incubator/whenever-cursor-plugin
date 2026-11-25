@@ -1,5 +1,7 @@
 # Whenever
 
+Ask Cursor once; Whenever runs the workflow on its own schedule, webhook or app event.
+
 Build and manage [Whenever](https://www.whenever.dev) automations from Cursor. Describe a recurring
 task and the Cursor agent writes the workflow, checks it, and saves a draft in your Whenever
 account. It can also turn workflows on, show their triggers, and read the results of past runs.
