@@ -21,7 +21,7 @@ values.
 
 ## Support
 
-[Contact Wix Customer Care](https://support.wix.com/en/article/contacting-wix-customer-care-for-support).
+Email `support` at `whenever.dev` (spelled out to keep the address away from spam crawlers).
 
 ## Privacy
 
